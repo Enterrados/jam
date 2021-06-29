@@ -21,3 +21,10 @@
 4. click on patch
 5. open AJ Classic
 6. log in
+
+### Error
+
+Error (65793)
+![Error](https://cdn.discordapp.com/attachments/857298622685249537/859490704522346526/unknown.png)
+
+This is a very common error that occurs when using jam, if you have this error download [jam v0.0.6](https://github.com/Auth-Xero/jam/releases/download/0.0.5-1618-1/Jam.Setup.0.0.5.exe), after doing so simply go to the host file (C: \ Windows \ System32 \ drivers \ etc) and edit it with a text editor removing the 2 links called aj classic
