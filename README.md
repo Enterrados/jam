@@ -12,3 +12,12 @@
 ## About
 
 **Jam** is a modular man-in-the-middle proxy for Animal Jam.
+
+## Tutorial
+
+1. go to releases
+2. download the latest version (you can choose the installer or the portable version)
+3. Open jam.exe
+4. click on patch
+5. open AJ Classic
+6. Log in
