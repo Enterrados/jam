@@ -17,7 +17,7 @@
 
 1. go to releases
 2. download the latest version (you can choose the installer or the portable version)
-3. Open jam.exe
+3. open jam.exe
 4. click on patch
 5. open AJ Classic
-6. Log in
+6. log in
