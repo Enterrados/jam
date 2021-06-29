@@ -22,9 +22,7 @@
 5. open AJ Classic
 6. log in
 
-### Error
-
-Error (65793)
+### Error (65793)
 
 ![Error](https://cdn.discordapp.com/attachments/857298622685249537/859490704522346526/unknown.png)
 
